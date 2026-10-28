@@ -19,8 +19,8 @@ Allow: /
 User-agent: *
 Disallow: /
 
-Sitemap: https://hangyeoltherapy.netlify.app/sitemap.xml
-Sitemap: https://hangyeoltherapy.netlify.app/sitemap-hub.xml
-Sitemap: https://hangyeoltherapy.netlify.app/sitemap-area.xml
-Sitemap: https://hangyeoltherapy.netlify.app/sitemap-topic.xml
-Sitemap: https://hangyeoltherapy.netlify.app/rss.xml
+Sitemap: https://hangyeoltherapy.pages.dev/sitemap.xml
+Sitemap: https://hangyeoltherapy.pages.dev/sitemap-hub.xml
+Sitemap: https://hangyeoltherapy.pages.dev/sitemap-area.xml
+Sitemap: https://hangyeoltherapy.pages.dev/sitemap-topic.xml
+Sitemap: https://hangyeoltherapy.pages.dev/rss.xml
